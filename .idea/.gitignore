@@ -1,0 +1,23 @@
+# Default ignored files
+.tgz
+*.tgz
+test/
+DataTreatment/
+dkpie10/
+testDK_A/
+testDKPIE/
+.zip
+*.zip
+
+<<<<<<< HEAD
+extract/
+=======
+>>>>>>> bdd92a0d216eff94b5dba2c5f6bec3e7786e9b72
+
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml

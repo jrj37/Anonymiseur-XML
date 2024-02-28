@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile enabled="true" name="Maven default annotation processors profile">
+        <sourceOutputDir name="target/generated-sources/annotations"/>
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations"/>
+        <outputRelativeToContentRoot value="true"/>
+        <module name="StageV1"/>
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<project version="4">
+  <component enabled="true" name="ExternalStorageConfigurationManager" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component default="true" languageLevel="JDK_20" name="ProjectRootManager" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK" version="2" />
+</project>
